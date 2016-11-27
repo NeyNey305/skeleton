@@ -1,0 +1,62 @@
+body {
+	background-color: white;
+}
+
+.brand-logo{
+    padding-left: 15px;
+}
+
+
+.material-icons{
+    padding-left: 15px;
+}
+
+.imageheader{
+/*    background-image:https://s15.postimg.org/hiyy072u3/freedom3.jpg;
+*/ background: url(/assets/freedom3.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  height:50vh;
+}
+
+h1{
+    font-family: 'Prociono', serif;
+    text-align: center;
+}
+
+h2{
+    font-family: 'Prociono', serif;
+}
+
+h5{
+    font-family: 'Prociono', serif;  
+}
+
+.nav-wrapper{
+	font-family: 'Fjalla One', sans-serif;
+    background: linear-gradient(to left, #424a5d, #c26fac);
+    position: fixed;
+}
+
+element.style {
+    background: #00475d;
+}
+
+.page-footer {
+    margin-top: 20px;
+    padding-top: 20px;
+    background-color: #00476d;
+}
+
+.quote-header{
+  font-weight: bold;
+  font-family: 'Fjalla One', sans-serif;
+  text-align: center;
+  font-size: 100px;
+
+}
+
+.quote-button{
+  text-align: center;
+}
